@@ -1,2 +1,2 @@
 # WERE
-School worl
+School work
